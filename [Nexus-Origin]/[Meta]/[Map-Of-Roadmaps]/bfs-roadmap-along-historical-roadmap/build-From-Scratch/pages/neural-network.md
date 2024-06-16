@@ -1,0 +1,15 @@
+- #c-sharp | [C#: Neural Network OCR](https://www.codeproject.com/Articles/11285/Neural-Network-OCR)
+  title:: neural-network
+- #f-sharp | [F#: Building Neural Networks in F#](https://towardsdatascience.com/building-neural-networks-in-f-part-1-a2832ae972e6)
+- #go | [Go: Build a multilayer perceptron with Golang](https://made2591.github.io/posts/neuralnetwork)
+- #go | [Go: How to build a simple artificial neural network with Go](https://sausheong.github.io/posts/how-to-build-a-simple-artificial-neural-network-with-go/)
+- #go | [Go: Building a Neural Net from Scratch in Go](https://datadan.io/blog/neural-net-with-go)
+- #javascript #java | [Javascript / Java:: Neural Networks - The Nature of Code](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aCibgK1PTWWu9by6XFdCfh) [video]
+- #javascript | [Javascript: Neural networks from scratch for JavaScript linguists (Part1 — The Perceptron)](https://hackernoon.com/neural-networks-from-scratch-for-javascript-linguists-part1-the-perceptron-632a4d1fbad2)
+- #Python | [Python: A Neural Network in 11 lines of Python](https://iamtrask.github.io/2015/07/12/basic-python-network/)
+- #Python | [Python: Implement a Neural Network from Scratch](https://victorzhou.com/blog/intro-to-neural-networks/)
+- #Python | [Python: Optical Character Recognition (OCR)](http://aosabook.org/en/500L/optical-character-recognition-ocr.html)
+- #Python | [Python: Traffic signs classification with a convolutional network](https://navoshta.com/traffic-signs-classification/)
+- #Python | [Python: Generate Music using LSTM Neural Network in Keras](https://towardsdatascience.com/how-to-generate-music-using-a-lstm-neural-network-in-keras-68786834d4c5)
+	- #python | [Python: An Introduction to Convolutional Neural Networks](https://victorzhou.com/blog/intro-to-cnns-part-1/)
+	- #python | [Python: Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)

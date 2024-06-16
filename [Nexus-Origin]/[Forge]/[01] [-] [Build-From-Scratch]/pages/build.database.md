@@ -1,0 +1,13 @@
+- #c-99 | [C: Let's Build a Simple Database](https://cstack.github.io/dbtutorial/)
+  title:: build.database
+- #c++ | [C++: Build Your Own Redis from Scratch](https://build-your-own.org/redis)
+- #c-sharp | [C#: Build Your Own Database](https://www.codeproject.com/Articles/1029838/Build-Your-Own-Database)
+- #clojure | [Clojure: An Archaeology-Inspired Database](http://aosabook.org/en/500L/an-archaeology-inspired-database.html)
+- #crystal | [Crystal: Why you should build your own NoSQL Database](https://medium.com/@marceloboeira/why-you-should-build-your-own-nosql-database-9bbba42039f5)
+- #go | [Go: Build Your Own Database from Scratch: Persistence, Indexing, Concurrency](https://build-your-own.org/database/)
+- #go | [Go: Build Your Own Redis from Scratch](https://www.build-redis-from-scratch.dev/)
+- #javascript | [Javascript: Dagoba: an in-memory graph database](http://aosabook.org/en/500L/dagoba-an-in-memory-graph-database.html)
+- #Python | [Python: DBDB: Dog Bed Database](http://aosabook.org/en/500L/dbdb-dog-bed-database.html)
+- #Python | [Python: Write your own miniature Redis with Python](http://charlesleifer.com/blog/building-a-simple-redis-server-with-python/)
+- #ruby | [Ruby: Build your own fast, persistent KV store in Ruby](https://dinesh.wiki/posts/build-your-own-persistent-kv-store/)
+- #rust | [Rust: Build your own Redis client and server](https://tokio.rs/tokio/tutorial/setup)

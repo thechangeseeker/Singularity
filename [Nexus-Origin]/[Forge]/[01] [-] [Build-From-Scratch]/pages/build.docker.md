@@ -1,0 +1,6 @@
+- #c-99 | [C: Linux containers in 500 lines of code](https://blog.lizzie.io/linux-containers-in-500-loc.html)
+- #go | [Go: Build Your Own Container Using Less than 100 Lines of Go](https://www.infoq.com/articles/build-a-container-golang)
+- #go | [Go: Building a container from scratch in Go](https://www.youtube.com/watch?v=8fi7uSYlOdc) [video]
+- #Python | [Python: A workshop on Linux containers: Rebuild Docker from Scratch](https://github.com/Fewbytes/rubber-docker)
+- #Python | [Python: A proof-of-concept imitation of Docker, written in 100% Python](https://github.com/tonybaloney/mocker)
+- #shell | [Shell: Docker implemented in around 100 lines of bash](https://github.com/p8952/bocker)

@@ -1,0 +1,5 @@
+- #c-sharp | [C#: Building a BitTorrent client from scratch in C#](https://www.seanjoflynn.com/research/bittorrent.html)
+- #go | [Go: Building a BitTorrent client from the ground up in Go](https://blog.jse.li/posts/torrent/)
+- #nim | [Nim: Writing a Bencode Parser](https://xmonader.github.io/nimdays/day02bencode.html)
+- #node.js | [Node.js: Write your own bittorrent client](https://allenkim67.github.io/programming/2016/05/04/how-to-make-your-own-bittorrent-client.html)
+- #Python | [Python: A BitTorrent client in Python 3.5](http://markuseliasson.se/article/bittorrent-in-python/)

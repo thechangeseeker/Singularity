@@ -1,0 +1,13 @@
+- #c-99 | [C: Home-grown bytecode interpreters](https://medium.com/bumble-tech/home-grown-bytecode-interpreters-51e12d59b25c)
+- #c-99 | [C: Virtual machine in C](http://web.archive.org/web/20200121100942/https://blog.felixangell.com/virtual-machine-in-c/)
+- #c-99 | [C: Write your Own Virtual Machine](https://justinmeiners.github.io/lc3-vm/)
+- #c-99 | [C: Writing a Game Boy emulator, Cinoop](https://cturt.github.io/cinoop.html)
+- #c++ | [C++: How to write an emulator (CHIP-8 interpreter)](http://www.multigesture.net/articles/how-to-write-an-emulator-chip-8-interpreter/)
+- #c++ | [C++: Emulation tutorial (CHIP-8 interpreter)](http://www.codeslinger.co.uk/pages/projects/chip8.html)
+- #c++ | [C++: Emulation tutorial (GameBoy emulator)](http://www.codeslinger.co.uk/pages/projects/gameboy.html)
+- #c++ | [C++: Emulation tutorial (Master System emulator)](http://www.codeslinger.co.uk/pages/projects/mastersystem/memory.html)
+- #c++ | [C++: NES Emulator From Scratch](https://www.youtube.com/playlist?list=PLrOv9FMX8xJHqMvSGB9G9nZZ4IgteYf) [video]
+- [Common Lisp: CHIP-8 in Common Lisp](http://stevelosh.com/blog/2016/12/chip8-cpu/)
+- #javascript | [Javascript: GameBoy Emulation in JavaScript](http://imrannazar.com/GameBoy-Emulation-in-JavaScript)
+- #Python | [Python: Emulation Basics: Write your own Chip 8 Emulator/Interpreter](http://omokute.blogspot.com.br/2012/06/emulation-basics-write-your-own-chip-8.html)
+- #rust | [Rust: 0dmg: Learning Rust by building a partial Game Boy emulator](https://jeremybanks.github.io/0dmg/)

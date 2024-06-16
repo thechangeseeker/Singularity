@@ -1,0 +1,3 @@
+- [[personal.projects.tui]]
+	- Unicode based User-interface
+-

@@ -1,0 +1,160 @@
+As you know I'm interested in being polymath and generalist as they enable me to learn everything (laterally every knowledge) in today's hyper-specialized world, but Now a days most Learning institutes like collages and universities are built with specialization and certification in mind.
+No one is interested in learning for curiosity because it interests them, everything is job and money oriented.
+Also while we are standing on shoulders of giants we neglect how we got where we are and Why? So Various history and context is neglected also people duplicate progress with specialization in different disciplines.
+
+Also I like Spirit Of all that's
+
+- Free and Open-source.
+- creative commons.
+- non-profits.
+- Open access.
+- internet archive.
+- Building from scratch or reinventing the wheel.
+- libraries.
+- Experiment and innovation.
+
+So for reaching my goals I thought of following plan,
+
+TODO for You(ChatGPT):
+1.Suggest new projects Ideas, Your thoughts, Improvements...
+2.Now you ChatGPT, after reading whole plan should organise it in coherent interconnected with the different projects in plan so they amplify each-other toward my goal.
+3.after that  make a long to-do list breaking down the plan in actionable steps.
+
+Also Everything Will be made from scratch while learning and recorded,
+With inspiration of existing projects like Mit-Open-Couese-Ware, Khan academy, Linux, Plan 9, lisp machine, APL, Wolfram ecosystem, Apple ecosystem, Raspberry-pi, OpenBSD, Curle web dictionary, D.A.O. like Internet Computer, torrent, Word-net, bable-net, Emacs, org-mode, Schema.org, Local AI, Games like Terraria, Minecraft, rain-world, Eve-online , ASCII Art, Instructables, 3d-Printing, Wikipedia ecosystem like Wiki-data, Wikipedia,  Wiki-species etc.
+etc.
+
+---
+
+1st
+"Project University" :
+
+Project university is a project about building and maintaining a knowledge space physically and Virtually with mesh network and internet.
+- in finished Project University, University will be self sufficient without import of any infrastructure for example food will be produced by students studying agriculture with relevant & related disciplines like environment science, the dishes will be cooked by chef students, buildings will be built by engineering students.
+- It will be like a mini prototype of society where teachers and students will co-run the university,
+- there will be no administration except Students teachers and Members, last year students will do the work as payment for education in respective discipline.
+- New students will be helped and guided by older students.
+It will use other Project like "Knowledge repository" "Project Open-ecosystem" etc.
+
+---
+
+2nd
+project Knowledge Repository :
+
+Project Knowledge Repository will be a combination of encyclopedia, personal knowledge management and a p2p (peep to peer),
+with features like;
+Also Reference and bibliography functionalities like zotero for books, videos, Research papers, websites etc. integrated with
+Knowledge network with fact-check, multiple viewpoints perspective and integrated timeline with version control with git like functionalities;
+It will consist of software which is like org-roam and obsidian and log-seq for PKM (Personal knowledge management),
+User's Data and knowledge will be local and software/hardware be Free and opensource,
+here a user is a part of decentralized network in which he can publish his knowledge to world using "TheLang" project,
+This projects unique points will be fact-checked by experts, Use of Semantic graph and UUIDs also git(for version control and content management) along concept map for avoiding duplication and automatic logical verification,
+It will Host News, Facts, Experiments and Research,
+along with functionalities of internet archive for knowledge preservation,
+Here knowledge will be represented in a giant 3D global graph with interlinking Connections Also with timeline and git-like branches for different perspective on same concept.
+
+---
+
+3rd
+Project Open-ecosystem
+
+This project aims to build a ecosystem of opensource hardware and software with apple like seemliness and interoperability along with emphasis on DIY, recycling and molecularity like phone-blokes, fair-phone etc with makers (and maker-space)
+upon completion it will be like this;
+A person wants a phone or computer or any device they will go to their local "Open-Park",
+where members of "Open-park" will help choose or recommend the devices Or THEY can DIY their device with modules,
+along with that they can choose color, shape, size, material of device for customization.
+All the devices will work on a agreed on standards built from scratch to be compatible and integrable with each other for seamlessness.
+If the user wants to repair or upgrade or customize the device they can simply change the faulty module with new modules where faulty one being repaired or recycled depending on situation.
+User only needs to buy one device per model in lifetime,
+also everything will be opensource.
+Different people can customize device,
+its hardware software and share (opt. sell) it online on official "Open-Forums" similar in spirit to open-source XDA forums, Pling Store .
+
+---
+
+4th
+Project ORG :
+
+The org will coordinate/manage the "Project knowledge repository"
+A Knowledge repository that will record all the Known and Unknown Knowledge in reality-including (Future/lost/Distorted/etc.),
+also Process it with version control and reason As it Changes with respect to time and history.
+It will be a D.A.O. based Organisation.
+It will be Opensource, Transparent, Self-Experimenting Organisation which will hold all members including leadership accountable.
+ORG will be the Network Of People Who are....Open Minded ,Polymaths & Generalist [As in having foundational knowledge of all Knowledge domains ]
+Innovative, Adaptive, Creative, Self-Experimenting and Accountable for own decision, View the reality With bystander's Perspective, Hold interdisciplinary and multidisciplinary perspective, Honest But Cautious.
+It will Rewards the contributors/members with their reward/payment being share/ownership/profit of their contributions contextual situation.
+It will be a Cyclic meaning its members roles and positioning will change with fixed time cycles.
+Its positions/roles will be decided via competition / exam  created by its community and experts.
+Everyone of its members will be learning new things every week,
+It's members will cycle different department with different roles for example A R&D Member will go to marketing department or developer department on Fixed time cycles.
+ORG will be transparent in its all levels of working,
+All Members Will Take Accountability.
+When a member is appointed a role/post, He will have sub-post/'s or Roles which will be not directly related to accountability but something similar to adviser based on past experience and new ideas or perspectives or history etc.
+It (ORG) won't have any fixed location or headquarter,
+Organisation will be a Platform for decision With Nuances/Multiple viewpoints/Disagreements.
+org Will Use only the opensource hardware and software.
+
+---
+
+5th
+Project WORLD :
+
+It will consist of roughly three parts;
+1.Local first, Community Governed Social mesh-network Virtual World.
+2.the local first community governed mesh-network Game.
+3.A world wide Social virtual world.
+Lets start imagining a virtual world with voxel/hexagonal/circular geometry based world where:
+Each voxel/point is calculating/representing/storing all sorts of data for example gravity, pressure, mineral, density, organisms etc. Information which is influencing its approximate voxel/point.
+Every Point/voxel is or can be a miniature Program(self-contained) / World or Ecosystem, it goes both-ways micro to macro or vice versa
+Now this entire game is divided/sorted in parts which stores on all participates computer in mesh network efficiently and is optimized.
+There will be block-chain for economy and assets like resources,
+It will be like shared d&d but on globe scale like pathfinder game.
+It will have fantasy elements like magic, time manipulation with cause and effect like timeline getting erased like 5d-chess, Mana / Ether(resources/assets) being drained of environment,
+It will be like a virtual mesh computer simulation local first ecosystem with its custom made programming language(Will be using TheLang) which will be used for everything.
+Lets make it have a game starting point or origin story where game Developers are gods who made magic(programming language) as way to harness world rules
+of simulation / virtual world.
+We can make also add simulation of environment load on local servers in each city,
+We can also integrate real world solution for problems of e-waste and reuse via re-cycle of waste material as DIY (do-it-yourself) 3d printing with Community led narrative in Open World game(for example pathfinder)
+also financially incentivise for the coin like more you recycle more hardware computing power for good simulation visuals features, have power-boost intertwined with real world etc.
+This game cost will be only limited to initial purchase/one-time cost via Open-Park afterword a nonprofit organisation will govern the infrastructure.
+like the local servers, communication components.
+Infra will be purchased,governed and managed by the community and will have rights of all things except basic agreed upon rules for example Tampering with the infrastructure for anti cheating etc.
+The nonprofit will rely on infrastructure maintenance as a service for day2day expenses along with building/expanding the infrastructure.
+
+6th
+Project TheLang :
+
+Above Project will be a con-lang which will be made with intention of unifying above ecosystem of projects,
+In this language different things will be represented by symbols which are part-like emojis part Unicode symbols also glyph.
+This language will be computable by computers like programming languages,
+This Project will use different useful features of existing languages for project construction
+this language will be like a abstract representation of different existing concepts
+with changes and different context in mind
+Also different things will be represented by language as a glyph which is made up of smaller glyphs which represent related and foundational concepts,
+this language will be used in my ecosystem of projects like knowledge repository
+it will use word-net, babel-net like system with git versioning which will be used for describing concepts
+
+This Language will be like a intermediary language which can be used as a framework for translation in different languages
+this language will also provide markdown and markup extensions for Semantic capture of knowledge from different language and knowledge systems
+Which will be also useful for virtual project "World" as a means to interact and control the "world"
+
+
+7th
+Project The Alliance:
+
+A Physical and Digital Micro Nation Where The ecosystem of my projects come togather to experiments on itself.
+for example,
+Different Political / Governable methodological with different combination like open democracy, D.A.O., Socialism, Communistic, Capitalism, Austrian Economies etc where everyone participates.
+
+It Will Conduct Self And peer Experiments with open analyses expert and Peer Feedback etc.
+It will consist of Floating cities and space based colonies as physical land and Project World as virtual Land, with other projects where they suit the best.
+
+8th
+Project Coin:
+
+A Currency based on Knowledge, Information and context.
+It will be based on D.A.O. and Block-Chain, and Smart Contracts.
+This currency will be different that regular ones with following points;
+It will be divided in different sub-curruncies corresponding to ecosystem/nation sector for example health, Education, Food etc,
+the sector currencies and their value will also be interconnected to each-other Mirroring progress of corresponding sector like stock market.
+Members will earn their salary via sub-currency based on their roles and contributions.

@@ -1,0 +1,16 @@
+- #haskell | [Haskell: Roll your own IRC bot](https://wiki.haskell.org/RollyourownIRCbot)
+  title:: build.bot
+- #node.js | [Node.js: Creating a Simple Facebook Messenger AI Bot with API.ai in Node.js](https://tutorials.botsfloor.com/creating-a-simple-facebook-messenger-ai-bot-with-api-ai-in-node-js-50ae2fa5c80d)
+- #node.js | [Node.js: How to make a responsive telegram bot](https://www.sohamkamani.com/blog/2016/09/21/making-a-telegram-bot/)
+- #node.js | [Node.js: Create a Discord bot](https://discordjs.guide/)
+- #node.js | [Node.js: gifbot - Building a GitHub App](https://blog.scottlogic.com/2017/05/22/gifbot-github-integration.html)
+- #node.js | [Node.js: Building A Simple AI Chatbot With Web Speech API And Node.js](https://www.smashingmagazine.com/2017/08/ai-chatbot-web-speech-api-node-js/)
+- #Python | [Python: How to Build Your First Slack Bot with Python](https://www.fullstackpython.com/blog/build-first-slack-bot-python.html)
+- #Python | [Python: How to build a Slack Bot with Python using Slack Events API & Django under 20 minute](https://medium.com/freehunch/how-to-build-a-slack-bot-with-python-using-slack-events-api-django-under-20-minute-code-included-269c3a9bf64e)
+- #Python | [Python: Build a Reddit Bot](http://pythonforengineers.com/build-a-reddit-bot-part-1/)
+- #Python | [Python: How To Make A Reddit Bot](https://www.youtube.com/watch?v=krTUf7BpTc0) [video]
+- #Python | [Python: How To Create a Telegram Bot Using Python](https://khashtamov.com/en/how-to-create-a-telegram-bot-using-python/)
+- #Python | [Python: Create a Twitter Bot in Python Using Tweepy](https://medium.freecodecamp.org/creating-a-twitter-bot-in-python-with-tweepy-ac524157a607)
+- #Python | [Python: Creating Reddit Bot with Python & PRAW](https://www.youtube.com/playlist?list=PLIFBTFgFpoJ9vmYYlfxRFV6UXhG-4fpP) [video]
+- #r | [R: Build A Cryptocurrency Trading Bot with R](https://towardsdatascience.com/build-a-cryptocurrency-trading-bot-with-r-1445c429e1b1)
+- #rust | [Rust: A bot for Starcraft in Rust, C or any other language](https://habr.com/en/post/436254/)

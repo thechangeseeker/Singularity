@@ -1,0 +1,29 @@
+Hi Its aryan from 25/12/23 22:34:42
+Im in process of making my system from scratch
+it should be a feedback loop with positive and negative points
+
+it will consist of
+    .Make new language with glyph and emoji approach it should be N(Where N is Variable infinity)d language
+    .make github/gitlab repository + backup / peer to peer
+    .a node/network like [[example]] based architecture
+    .No instruction set computing
+    .Emacs like Single program for everything
+    .use every concept you will come to know to incorporate in it
+    .it should be used by every [old/my.def] of professions
+    .it should be a unified system under and over the hood
+    . you can use coding train etc
+        ..list other resources here
+        ..build-your-own-x by code crafters io
+        ..
+    .you system should be semantic ie should include meta data interchangeable with actual data with a universal format system
+        .. your system should be taking in consideration pkm personal knowledge management
+                                                     Ukm universal knowledge management
+                                                     Skm social knowledge management
+    .It should consider all other aspects like security accessibility iot-internet of things
+    .a video editing functionality on existing video for educational / commentary / networking
+
+
+adding thing tomorrow
+
+Today 26/12/23 16:57:22
+ How about "Eunoicordia"? This blend combines the essence of "Concordia," signifying agreement or harmony, with "Eunoia," representing beautiful thinking or a well-balanced mind, to create a word that embodies both the harmonious agreement and balanced existence within the fantasy realm.

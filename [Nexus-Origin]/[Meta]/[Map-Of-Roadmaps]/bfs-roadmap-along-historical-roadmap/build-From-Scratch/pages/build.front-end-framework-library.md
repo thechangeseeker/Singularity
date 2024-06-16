@@ -1,0 +1,15 @@
+- #javascript | [Javascript: WTF is JSX (Let's Build a JSX Renderer)](https://jasonformat.com/wtf-is-jsx/)
+- #javascript | [Javascript: A DIY guide to build your own React](https://github.com/hexacta/didact)
+- #javascript | [Javascript: Building React From Scratch](https://www.youtube.com/watch?v=MAD4Oly9yg) [video]
+- #javascript | [Javascript: Gooact: React in 160 lines of JavaScript](https://medium.com/@sweetpalma/gooact-react-in-160-lines-of-javascript-44e0742ad60f)
+- #javascript | [Javascript: React Internals](http://www.mattgreer.org/articles/react-internals-part-one-basic-rendering/)
+- #javascript | [Javascript: Learn how React Reconciler package works by building your own lightweight React DOM](https://hackernoon.com/learn-you-some-custom-react-renderers-aed7164a4199)
+- #javascript | [Javascript: Build Yourself a Redux](https://zapier.com/engineering/how-to-build-redux/)
+- #javascript | [Javascript: Let’s Write Redux!](https://www.jamasoftware.com/blog/lets-write-redux/)
+- #javascript | [Javascript: Redux: Implementing Store from Scratch](https://egghead.io/lessons/react-redux-implementing-store-from-scratch) [video]
+- #javascript | [Javascript: Build Your own Simplified AngularJS in 200 Lines of JavaScript](https://blog.mgechev.com/2015/03/09/build-learn-your-own-light-lightweight-angularjs/)
+- #javascript | [Javascript: Make Your Own AngularJS](http://teropa.info/blog/2013/11/03/make-your-own-angular-part-1-scopes-and-digest.html)
+- #javascript | [Javascript: How to write your own Virtual DOM](https://medium.com/@deathmood/how-to-write-your-own-virtual-dom-ee74acc13060)
+- #javascript | [Javascript: Building a frontend framework, from scratch, with components (templating, state, VDOM)](https://mfrachet.github.io/create-frontend-framework/)
+- #javascript | [Javascript: Build your own React](https://pomb.us/build-your-own-react/)
+- #javascript | [Javascript: Building a Custom React Renderer](https://youtu.be/CGpMlWVcHok) [video]

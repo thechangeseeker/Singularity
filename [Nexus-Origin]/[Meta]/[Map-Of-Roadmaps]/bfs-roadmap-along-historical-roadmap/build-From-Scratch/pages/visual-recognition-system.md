@@ -1,0 +1,2 @@
+- #Python | [Python: Developing a License Plate Recognition System with Machine Learning in Python](https://blog.devcenter.co/developing-a-license-plate-recognition-system-with-machine-learning-in-python-787833569ccd)
+- #Python | [Python: Building a Facial Recognition Pipeline with Deep Learning in Tensorflow](https://hackernoon.com/building-a-facial-recognition-pipeline-with-deep-learning-in-tensorflow-66e7645015b8)

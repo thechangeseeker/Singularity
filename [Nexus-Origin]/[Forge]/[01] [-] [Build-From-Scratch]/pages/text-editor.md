@@ -1,0 +1,6 @@
+- #c-99 | [C: Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo/)
+- #c++ | [C++: Designing a Simple Text Editor](http://www.fltk.org/doc-1.1/editor.html)
+- #Python | [Python: Python Tutorial: Make Your Own Text Editor](https://www.youtube.com/watch?v=xqDonHEYPgA) [video]
+- #Python | [Python: Create a Simple Python Text Editor!](http://www.instructables.com/id/Create-a-Simple-Python-Text-Editor/)
+- #ruby | [Ruby: Build a Collaborative Text Editor Using Rails](https://blog.aha.io/text-editor/)
+- #rust | [Rust: Hecto: Build your own text editor in Rust ](https://www.flenker.blog/hecto/)

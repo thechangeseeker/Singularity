@@ -1,0 +1,1 @@
+{"rule":"AGREEMENT_SENT_START","sentence":"^\\QIdeas\nConcepts\\E$"}

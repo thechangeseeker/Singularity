@@ -1,0 +1,7 @@
+- #c-99 | [C: Video Game Physics Tutorial](https://www.toptal.com/game/video-game-physics-part-i-an-introduction-to-rigid-body-dynamics)
+- #c++ | [C++: Game physics series by Allen Chou](http://allenchou.net/game-physics-series/)
+- #c++ | [C++: How to Create a Custom Physics Engine](https://gamedevelopment.tutsplus.com/series/how-to-create-a-custom-physics-engine--gamedev-12715)
+- #c++ | [C++: 3D Physics Engine Tutorial](https://www.youtube.com/playlist?list=PLEETnX-uPtBXm1KEr2zQ6K0hoGH6JJ0) [video]
+- #javascript | [Javascript: How Physics Engines Work](http://buildnewgames.com/gamephysics/)
+- #javascript | [Javascript: Broad Phase Collision Detection Using Spatial Partitioning](http://buildnewgames.com/broad-phase-collision-detection/)
+- #javascript | [Javascript: Build a simple 2D physics engine for JavaScript games](https://www.ibm.com/developerworks/library/wa-build2dphysicsengine/index.html)
